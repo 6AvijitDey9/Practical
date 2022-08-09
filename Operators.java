@@ -10,9 +10,9 @@ int sum = a+b;
 int substraction = a-b;
 int multiplication = a*b;
 int dividation = a/b;
-System.out.println("The sum is =" +  sum);
-System.out.println("The substraction is =" +  substraction);
-System.out.println("The multiplication is =" +  multiplication);
-System.out.println("The dividation is =" +  dividation);
+System.out.println("The sum is = " +  sum);
+System.out.println("The substraction is = " +  substraction);
+System.out.println("The multiplication is = " +  multiplication);
+System.out.println("The dividation is = " +  dividation);
 }
 }
