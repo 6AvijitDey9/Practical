@@ -17,9 +17,9 @@ public class Compare_Arraylist {
 		System.out.println(als.retainAll(als1));
 		System.out.println(als.contains(als1));
 		System.out.println(als.toString().contentEquals(als1.toString()));
-		
-		System.out.println(al);
-		Collections.sort(al);
-		for(int val : al) {
+		// Sorting and Traversing through ArrayList
+		System.out.println(al); // Printing ArrayList
+		Collections.sort(al); 
+		for(int val : al) { // Traversing Through ArrayList
 			System.out.print(val + " ");
 		}}}
