@@ -12,8 +12,8 @@ public class addition{ //Class
 
  class OverLoading { //main class
 	public static void main(String[] args) {
-       System.out.println("Addition of two int numbers is: " + addition.add(12, 34));
-       System.out.println("Addition of two int numbers is: " + addition.add(23.567, 34.789));
+       System.out.println("Addition of two int type numbers is: " + addition.add(12, 34));
+       System.out.println("Addition of two double type numbers is: " + addition.add(23.567, 34.789));
 	}
 
 }
