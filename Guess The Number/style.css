@@ -47,6 +47,11 @@ Button {
     Font-Size: 18px;
     Font-Weight: 600;
     Margin-Bottom: 30px;
+    cursor: pointer;
+}
+Button:hover{
+  background: aqua;
+  color: black;
 }
 P {
     Font-Weight: 300;
